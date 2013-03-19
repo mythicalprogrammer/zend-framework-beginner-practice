@@ -1,0 +1,4 @@
+<VirtualHost 127.0.0.6>
+    DocumentRoot /var/www/zf_projs/square/public
+    ServerName square.localhost 
+</VirtualHost>
